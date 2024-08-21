@@ -1,0 +1,49 @@
+.body{
+    background-image: url(Screenshot\ 2024-08-18\ 071032.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+
+
+
+
+}
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(5, 5, 6);
+    
+    
+
+
+}
+.start{
+    
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(129, 188, 122);
+    color: white;
+    cursor: pointer;
+
+
+
+
+
+
+
+
+}
